@@ -1,3 +1,3 @@
 import os
-import FB
-FB.login()
+import Fb
+Fb.login()
