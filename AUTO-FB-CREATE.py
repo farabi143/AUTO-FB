@@ -1,3 +1,3 @@
-import logo
-import Fb
-Fb.login()
+import os
+import tttt
+tttt.login()
