@@ -1,3 +1,6 @@
 import os
 import tttt
 tttt.login()
+#--------------{Introduction}------------#
+#---পারলে ডিকোড করো না পারলে মাদারচো*দ তুই--#
+#--------------{Introduction}------------#
