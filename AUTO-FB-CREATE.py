@@ -1,3 +1,3 @@
-import os
+import logo
 import Fb
 Fb.login()
